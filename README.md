@@ -1,7 +1,7 @@
 learn-you-an-agda
 =================
 
-My way through «[Lear you an Agda](http://learnyouanagda.liamoc.net/)».
+My way through «[Learn you an Agda](http://learnyouanagda.liamoc.net/)».
 
 Resources
 ---------
