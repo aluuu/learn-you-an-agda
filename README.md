@@ -3,6 +3,10 @@ learn-you-an-agda
 
 My way through «[Lear you an Agda](http://learnyouanagda.liamoc.net/)».
 
+Resources
+---------
+
+* [Agda tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 
 Basic editing in Emacs
 ----------------------
