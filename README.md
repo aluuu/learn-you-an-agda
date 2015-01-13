@@ -13,5 +13,5 @@ Basic editing in Emacs
 
 Note: you can't get highlighted sources until you *load* file
 
-`C-c C-l` — load file
-`C-c C-n` — evaluate expression
+* `C-c C-l` — load file
+* `C-c C-n` — evaluate expression
